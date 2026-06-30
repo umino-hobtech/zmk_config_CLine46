@@ -45,7 +45,7 @@ layers:
   - {t: INT HENKAN, h: LSFT}
   - RET
   - BSPC
-  - '9'
+  - '`'
   - DEL
   '1':
   - ^
